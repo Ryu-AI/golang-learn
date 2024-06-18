@@ -1,6 +1,6 @@
 # golang-learn
 
-Just a progress tracker
+Just a progress tracker.
 
 Why GO?
 
